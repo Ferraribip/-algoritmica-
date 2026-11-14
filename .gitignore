@@ -1,0 +1,14 @@
+# Exclusión de binarios y compilación
+*.exe
+*.out
+*.obj
+*.o
+*.bin
+*.cache
+
+# Configuración de entornos de desarrollo
+.vscode/
+.idea/
+*.suo
+*.user
+*.aps
